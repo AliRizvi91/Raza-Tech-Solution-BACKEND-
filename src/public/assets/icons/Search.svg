@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="100%"
+   height="100%"
+   viewBox="0 0 64 64"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg15">
+  <metadata
+   id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+   rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+
+        <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+
+      </cc:Work>
+
+    </rdf:RDF>
+
+  </metadata>
+
+  <defs
+   id="defs19" />
+
+  
+  <path
+   d="M28,42.825c-8.826,-0.866 -15.732,-8.318 -15.732,-17.37c0,-9.634 7.821,-17.455 17.454,-17.455c9.634,0 17.455,7.821 17.455,17.455c0,3.412 -0.981,6.597 -2.677,9.287"
+   style="fill:none;stroke:#222a33;stroke-width:1.5px;"
+   id="path3" />
+
+  <path
+   d="M22.522,40c0,0 1.266,-1.687 2.36,-3.146c0.939,-1.253 0.987,-2.961 0.118,-4.264c-0.216,-0.325 -0.428,-0.642 -0.61,-0.916c-0.364,-0.546 -0.559,-1.188 -0.559,-1.845c0,0 0,-0.001 0,-0.001c0,-1.697 -1.197,-3.158 -2.861,-3.491c-0.395,-0.079 -0.798,-0.16 -1.185,-0.237c-1.504,-0.301 -2.666,-1.501 -2.918,-3.014c-0.128,-0.768 -0.236,-1.413 -0.236,-1.413"
+   style="fill:none;stroke:#222a33;stroke-width:1.5px;"
+   id="path5" />
+
+  <path
+   d="M34.945,24c-1.533,0 -2.777,-1.244 -2.777,-2.777c0,-1.533 1.244,-2.778 2.777,-2.778c1.533,0 2.777,1.245 2.777,2.778"
+   style="fill:none;stroke:#222a33;stroke-width:1.5px;"
+   id="path7" />
+
+  <path
+   d="M20.995,15.986c0.759,-0.676 1.693,-1.409 2.836,-2.168"
+   style="fill:none;stroke:#222a33;stroke-width:1.5px;"
+   id="path9" />
+
+  <circle
+   cx="41.359"
+   cy="42.909"
+   r="8.727"
+   style="fill:none;stroke:#222a33;stroke-width:1.5px;"
+   id="circle11" />
+
+  <path
+   d="M46.182,50.182l5.818,5.818"
+   style="fill:none;stroke:#222a33;stroke-width:1.5px;"
+   id="path13" />
+
+</svg>
