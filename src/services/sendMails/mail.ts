@@ -36,7 +36,7 @@ export const sendmailer = async (
 
   const mailOptions = {
     from: {
-      name: "Khadim Royals",
+      name: "Raza Tech Solution",
       address: process.env.MAILER_USER as string,
     },
     to: email,
@@ -157,7 +157,7 @@ export const sendmailer = async (
         <div class="container">
           <img src="https://res.cloudinary.com/dkbz23qyt/image/upload/v1755698654/Logo_vbxbbz.png" 
                class="logo" 
-               alt="Khadim Royals Logo" />
+               alt="Raza Tech Solution Logo" />
           
           <h1 class="greeting">Hey ${userName}!</h1>
           <p class="subtitle">You need to confirm your email</p>

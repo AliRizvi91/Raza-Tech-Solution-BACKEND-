@@ -25,7 +25,7 @@ router.get('/health', (_req, res) => {
 // Root route
 router.get('/', (_req, res) => {
   res.json({ 
-    message: "Welcome to Khadim Royals API",
+    message: "Welcome to Raza Tech Solution API",
     status: 'operational'
   });
 });
