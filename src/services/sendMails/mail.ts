@@ -155,7 +155,7 @@ export const sendmailer = async (
       </head>
       <body>
         <div class="container">
-          <img src="https://res.cloudinary.com/dkbz23qyt/image/upload/v1755698654/Logo_vbxbbz.png" 
+          <img src="https://res.cloudinary.com/dkbz23qyt/image/upload/v1759903048/Modern_n9nqzm.png" 
                class="logo" 
                alt="Raza Tech Solution Logo" />
           
